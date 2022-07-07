@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mno127
 - 👀 I’m interested in people, technology & change
-- 🌱 I’m currently focused on edge/distributed computing
+- 🌱 I’m currently focused on edge, web3 & distributed computing
 - 💞️ I’m looking to collaborate on decentralizing the web
 - 📫 How to reach me ... via email
 
